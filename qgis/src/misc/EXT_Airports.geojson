@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "EXT_Airports",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "desig": "ELLX", "name": "LUXEMBOURG" }, "geometry": { "type": "Point", "coordinates": [ 6.211581102321079, 49.626475077968621 ] } },
+{ "type": "Feature", "properties": { "desig": "LFST", "name": "ENTZHEIM" }, "geometry": { "type": "Point", "coordinates": [ 7.628216168435684, 48.538319229253503 ] } },
+{ "type": "Feature", "properties": { "desig": "EDNY", "name": "FRIEDRICHSHAFEN" }, "geometry": { "type": "Point", "coordinates": [ 9.511542186597515, 47.671325048241229 ] } },
+{ "type": "Feature", "properties": { "desig": "ETHL", "name": "LAUPHEIM" }, "geometry": { "type": "Point", "coordinates": [ 9.910202208047856, 48.220120040182792 ] } },
+{ "type": "Feature", "properties": { "desig": "EDJA", "name": "MEMMINGEN" }, "geometry": { "type": "Point", "coordinates": [ 10.240823962224274, 47.989333653953665 ] } },
+{ "type": "Feature", "properties": { "desig": "EDDN", "name": "NUERNBERG" }, "geometry": { "type": "Point", "coordinates": [ 11.077607716591174, 49.498738001488299 ] } },
+{ "type": "Feature", "properties": { "desig": "EDQA", "name": "BREITENAU" }, "geometry": { "type": "Point", "coordinates": [ 10.914910368465655, 49.920895369654986 ] } },
+{ "type": "Feature", "properties": { "desig": "EDQC", "name": "BRANDENSTEINSEBENE" }, "geometry": { "type": "Point", "coordinates": [ 10.995756193719179, 50.262448406310106 ] } },
+{ "type": "Feature", "properties": { "desig": "EDDE", "name": "ERFURT-WEIMAR" }, "geometry": { "type": "Point", "coordinates": [ 10.958115547073357, 50.979823867579469 ] } },
+{ "type": "Feature", "properties": { "desig": "EDVK", "name": "KASSEL-CALDEN" }, "geometry": { "type": "Point", "coordinates": [ 9.392018529414376, 51.420788911485324 ] } }
+]
+}
