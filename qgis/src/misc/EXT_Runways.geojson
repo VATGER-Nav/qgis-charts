@@ -12,6 +12,9 @@
 { "type": "Feature", "properties": { "name": "EDQA" }, "geometry": { "type": "LineString", "coordinates": [ [ 10.910059687360445, 49.916641302042208 ], [ 10.919761908476429, 49.925149221296103 ] ] } },
 { "type": "Feature", "properties": { "name": "EDQC" }, "geometry": { "type": "LineString", "coordinates": [ [ 10.990245972327102, 50.264478397160012 ], [ 11.001265941416252, 50.26041815903114 ] ] } },
 { "type": "Feature", "properties": { "name": "EDDE" }, "geometry": { "type": "LineString", "coordinates": [ [ 10.939799682890866, 50.981267276421292 ], [ 10.976430195628291, 50.978377598151361 ] ] } },
-{ "type": "Feature", "properties": { "name": "EDVK" }, "geometry": { "type": "LineString", "coordinates": [ [ 9.374670887937514, 51.421704350507824 ], [ 9.409365462898842, 51.419870906629804 ] ] } }
+{ "type": "Feature", "properties": { "name": "EDVK" }, "geometry": { "type": "LineString", "coordinates": [ [ 9.374670887937514, 51.421704350507824 ], [ 9.409365462898842, 51.419870906629804 ] ] } },
+{ "type": "Feature", "properties": { "name": "EHBK" }, "geometry": { "type": "LineString", "coordinates": [ [ 5.758170174347486, 50.89992917148686 ], [ 5.779220037711609, 50.920757864268936 ] ] } },
+{ "type": "Feature", "properties": { "name": "EBLG_N" }, "geometry": { "type": "LineString", "coordinates": [ [ 5.430126164186839, 50.6312760674572 ], [ 5.453572895576261, 50.646051621649697 ] ] } },
+{ "type": "Feature", "properties": { "name": "EBLG_S" }, "geometry": { "type": "LineString", "coordinates": [ [ 5.464979494203584, 50.650564146455501 ], [ 5.427900514969445, 50.627161227458338 ] ] } }
 ]
 }

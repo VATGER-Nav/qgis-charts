@@ -12,6 +12,8 @@
 { "type": "Feature", "properties": { "desig": "EDQA", "name": "BREITENAU" }, "geometry": { "type": "Point", "coordinates": [ 10.914910368465655, 49.920895369654986 ] } },
 { "type": "Feature", "properties": { "desig": "EDQC", "name": "BRANDENSTEINSEBENE" }, "geometry": { "type": "Point", "coordinates": [ 10.995756193719179, 50.262448406310106 ] } },
 { "type": "Feature", "properties": { "desig": "EDDE", "name": "ERFURT-WEIMAR" }, "geometry": { "type": "Point", "coordinates": [ 10.958115547073357, 50.979823867579469 ] } },
-{ "type": "Feature", "properties": { "desig": "EDVK", "name": "KASSEL-CALDEN" }, "geometry": { "type": "Point", "coordinates": [ 9.392018529414376, 51.420788911485324 ] } }
+{ "type": "Feature", "properties": { "desig": "EDVK", "name": "KASSEL-CALDEN" }, "geometry": { "type": "Point", "coordinates": [ 9.392018529414376, 51.420788911485324 ] } },
+{ "type": "Feature", "properties": { "desig": "EHBK", "name": "MAASTRICHT-AACHEN" }, "geometry": { "type": "Point", "coordinates": [ 5.768692785914604, 50.910343957730596 ] } },
+{ "type": "Feature", "properties": { "desig": "EBLG", "name": "LIEGE" }, "geometry": { "type": "Point", "coordinates": [ 5.444144767234032, 50.638763265755188 ] } }
 ]
 }
