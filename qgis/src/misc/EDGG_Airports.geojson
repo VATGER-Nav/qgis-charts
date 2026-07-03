@@ -31,6 +31,7 @@
 { "type": "Feature", "properties": { "desig": "ETNG", "name": "GEILENKIRCHEN" }, "geometry": { "type": "Point", "coordinates": [ 6.041831325752457, 50.960840165447017 ] } },
 { "type": "Feature", "properties": { "desig": "ETNN", "name": "NOERVENICH" }, "geometry": { "type": "Point", "coordinates": [ 6.658014852775508, 50.831196312633189 ] } },
 { "type": "Feature", "properties": { "desig": "ETOU", "name": "WIESBADEN" }, "geometry": { "type": "Point", "coordinates": [ 8.325456397942011, 50.049817567523355 ] } },
-{ "type": "Feature", "properties": { "desig": "ETSB", "name": "BUECHEL" }, "geometry": { "type": "Point", "coordinates": [ 7.063367457159966, 50.173864347630946 ] } }
+{ "type": "Feature", "properties": { "desig": "ETSB", "name": "BUECHEL" }, "geometry": { "type": "Point", "coordinates": [ 7.063367457159966, 50.173864347630946 ] } },
+{ "type": "Feature", "properties": { "desig": "ETAR", "name": "RAMSTEIN AB" }, "geometry": { "type": "Point", "coordinates": [ 7.598520570150254, 49.435612944104179 ] } }
 ]
 }

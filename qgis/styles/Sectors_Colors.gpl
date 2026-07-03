@@ -1,0 +1,15 @@
+GIMP Palette
+Name: QGIS Palette
+Columns: 4
+#
+ 38  59 151	VATGER Blue
+239  65  53	VATGER Red
+255 207   1	VATGER Yellow
+151 153 155	VATGER Grey
+ 78  87 166	Sector Blue Stroke
+227 184   0	Sector Yellow Stroke
+212 106  13	Sector Orange Stroke
+ 78  87 166	Sector Blue Fill
+239  65  53	Sector Red Fill
+227 184   0	Sector Yellow Fill
+212 106  13	Sector Orange Fill

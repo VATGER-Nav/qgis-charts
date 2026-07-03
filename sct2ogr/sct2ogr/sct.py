@@ -54,9 +54,11 @@ class Sectors:
         for fir in self.__sectors:
             for desig in self.__sectors[fir]:
                 for lvl_band, sector in self.__sectors[fir][desig].items():
-                    hash_obj = f"{desig}/{lvl_band}"
+                    # hash_obj = f"{desig}/{lvl_band}"
+                    identifier = f"{desig}/{str(sector["level_band"][0]).zfill(3)}-{str(sector["level_band"][1]).zfill(3)}"
                     data.append({
-                        "id": sha1(bytes(hash_obj, "utf-8")).hexdigest(),
+                        # "id": sha1(bytes(hash_obj, "utf-8")).hexdigest(),
+                        "identifier": identifier,
                         "name": desig,
                         "level_lower": sector["level_band"][0],
                         "level_upper": sector["level_band"][1],
