@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "DFD07_Labels",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"identifier":"DFAN1","subsector_id":"DFAN1/000-135","name":"DFAN1","callout_x1":null,"callout_y1":null,"callout_x2":null,"callout_y2":null,"style":20,"buffer":false},"geometry":{"type":"Point","coordinates":[8.993071456863724,50.277528628074059]}},
+{"type":"Feature","properties":{"identifier":"DFAN2","subsector_id":"DFAN2/085-135","name":"DFAN2","callout_x1":null,"callout_y1":null,"callout_x2":null,"callout_y2":null,"style":23,"buffer":false},"geometry":{"type":"Point","coordinates":[8.202565118811462,50.062540081108132]}},
+{"type":"Feature","properties":{"identifier":"DFAN3","subsector_id":"DFAN3/125-135","name":"DFAN3","callout_x1":null,"callout_y1":null,"callout_x2":null,"callout_y2":null,"style":21,"buffer":false},"geometry":{"type":"Point","coordinates":[9.330813674320382,50.326091116739725]}},
+{"type":"Feature","properties":{"identifier":"DFAN4","subsector_id":"DFAN4/105-135","name":"DFAN4","callout_x1":null,"callout_y1":null,"callout_x2":null,"callout_y2":null,"style":21,"buffer":false},"geometry":{"type":"Point","coordinates":[9.30905859526227,50.435999924890112]}},
+{"type":"Feature","properties":{"identifier":"DFAS1","subsector_id":"DFAS1/000-135","name":"DFAS1","callout_x1":null,"callout_y1":null,"callout_x2":null,"callout_y2":null,"style":20,"buffer":true},"geometry":{"type":"Point","coordinates":[9.301519706479761,50.01565056726448]}},
+{"type":"Feature","properties":{"identifier":"DFAS2","subsector_id":"DFAS2/075-135","name":"DFAS2","callout_x1":null,"callout_y1":null,"callout_x2":null,"callout_y2":null,"style":23,"buffer":false},"geometry":{"type":"Point","coordinates":[8.766904793388278,49.844628270326886]}},
+{"type":"Feature","properties":{"identifier":"DFAS3","subsector_id":"DFAS3/000-125","name":"DFAS3","callout_x1":9.379061,"callout_y1":50.327469,"callout_x2":9.506577,"callout_y2":50.335465,"style":20,"buffer":false},"geometry":{"type":"Point","coordinates":[9.330813674320382,50.326091116739725]}},
+{"type":"Feature","properties":{"identifier":"DFAS4","subsector_id":"DFAS4/000-105","name":"DFAS4","callout_x1":9.357522,"callout_y1":50.438475,"callout_x2":9.463928,"callout_y2":50.449478,"style":20,"buffer":false},"geometry":{"type":"Point","coordinates":[9.30905859526227,50.435999924890112]}},
+{"type":"Feature","properties":{"identifier":"DFDN1","subsector_id":"DFDN1/000-085","name":"DFDN1","callout_x1":null,"callout_y1":null,"callout_x2":null,"callout_y2":null,"style":10,"buffer":false},"geometry":{"type":"Point","coordinates":[8.20256511881146,50.062540081108111]}},
+{"type":"Feature","properties":{"identifier":"DFDN2","subsector_id":"DFDN2/000-135","name":"DFDN2","callout_x1":7.789433,"callout_y1":50.291605,"callout_x2":7.824759,"callout_y2":50.192977,"style":10,"buffer":false},"geometry":{"type":"Point","coordinates":[7.914794964141752,50.329676141714764]}},
+{"type":"Feature","properties":{"identifier":"DFDN3","subsector_id":"DFDN3/000-135","name":"DFDN3","callout_x1":null,"callout_y1":null,"callout_x2":null,"callout_y2":null,"style":10,"buffer":true},"geometry":{"type":"Point","coordinates":[8.464487654798255,50.272283105051429]}},
+{"type":"Feature","properties":{"identifier":"DFDS1","subsector_id":"DFDS1/000-135","name":"DFDS1","callout_x1":null,"callout_y1":null,"callout_x2":null,"callout_y2":null,"style":100,"buffer":false},"geometry":{"type":"Point","coordinates":[8.335249561383719,49.797803833802135]}},
+{"type":"Feature","properties":{"identifier":"DFDS2","subsector_id":"DFDS2/000-075","name":"DFDS2","callout_x1":8.636805,"callout_y1":49.878324,"callout_x2":8.585540,"callout_y2":49.965658,"style":100,"buffer":false},"geometry":{"type":"Point","coordinates":[8.766904793388278,49.844628270326886]}}
+]
+}
